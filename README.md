@@ -91,8 +91,6 @@ Ask questions about a CSV in plain language. It loads the file into SQLite, pull
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-7d6cd0?style=flat-square&logo=scikitlearn&logoColor=white">
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-7d6cd0?style=flat-square&logo=pytorch&logoColor=white">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-7d6cd0?style=flat-square&logo=tensorflow&logoColor=white">
-  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-7d6cd0?style=flat-square">
-  <img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-7d6cd0?style=flat-square">
   <img alt="Databricks" src="https://img.shields.io/badge/Databricks-242236?style=flat-square&logo=databricks&logoColor=white">
   <img alt="MLflow" src="https://img.shields.io/badge/MLflow-242236?style=flat-square&logo=mlflow&logoColor=white">
   <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-242236?style=flat-square&logo=langchain&logoColor=white">
