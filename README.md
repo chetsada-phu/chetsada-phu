@@ -100,14 +100,3 @@ Ask questions about a CSV in plain language. It loads the file into SQLite, pull
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-242236?style=flat-square&logo=powerbi&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-242236?style=flat-square&logo=git&logoColor=white">
 </p>
-
----
-
-### 🐍 Watch the snake eat my contribution graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chetsada-phu/chetsada-phu/output/snake-dark.svg">
-  <img alt="A snake animation eating Chetsada's GitHub contribution graph" src="https://raw.githubusercontent.com/chetsada-phu/chetsada-phu/output/snake.svg">
-</picture>
-
-<p align="center"><sub>question → evidence → decision</sub></p>
